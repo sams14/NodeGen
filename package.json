@@ -1,0 +1,24 @@
+{
+  "name": "inspire-project",
+  "version": "1.0.0",
+  "description": "Project to schedule any script using node instance",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sams14/Inspire-Project.git"
+  },
+  "author": "sams14",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sams14/Inspire-Project/issues"
+  },
+  "homepage": "https://github.com/sams14/Inspire-Project#readme",
+  "dependencies": {
+    "child_process": "^1.0.2",
+    "express": "^4.17.1",
+    "node-schedule": "^2.0.0"
+  }
+}
